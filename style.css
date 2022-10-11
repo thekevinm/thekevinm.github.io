@@ -5,6 +5,8 @@ body, html {
 h1 {
   color: white;
   font-family: Geneva;
+  font-weight: bold;
+  font-size: 150%;
 }
 
 .bg {
