@@ -9,6 +9,13 @@ h1 {
   font-size: 350%;
 }
 
+p {
+  color: white;
+  font-family: Geneva;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 .bg {
   background-image: url("https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg");
 
