@@ -7,26 +7,30 @@ h1 {
   font-family: Geneva;
   font-weight: bold;
   font-size: 350%;
+  margin-bottom: 0;
 }
 
-p {
+h2 {
   color: white;
   font-family: Geneva;
   font-weight: bold;
   text-decoration: underline;
 }
 
+a, a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color: white;
+}
+
 .bg {
   background-image: url("https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg");
-
   height: 100%;
-
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-.content {
+.name, .resume {
   display: flex;
   justify-content: center;
   align-items: center;
